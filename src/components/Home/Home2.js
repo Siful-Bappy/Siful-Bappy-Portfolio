@@ -65,6 +65,9 @@ function Home2() {
             <p>
               Feel free to <span className="purple">connect </span>with me
             </p>
+            <p>
+              KakaoTalk/Telegram <span className="purple fs-5">+82 1021784525 </span>
+            </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
